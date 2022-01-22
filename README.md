@@ -24,7 +24,7 @@ The JSON-RPC API provided by Dogecoin Core is self-documenting and can be browse
 
 ### Such ports
 
-Dogecoin Core by default uses port `22556` for peer-to-peer communication that
+~~Dogecoin~~  COPIUM  Core by default uses port `22556` for peer-to-peer communication that
 is needed to synchronize the "mainnet" blockchain and stay informed of new
 transactions and blocks. Additionally, a JSONRPC port can be opened, which
 defaults to port `22555` for mainnet nodes. It is strongly recommended to not
@@ -37,7 +37,7 @@ expose RPC ports to the public internet.
 
 ## Ongoing development - Moon plan 🌒
 
-Dogecoin Core is an open source and community driven software. The development
+~~Dogecoin~~  COPIUM  Core is an open source and community driven software. The development
 process is open and publicly visible; anyone can see, discuss and work on the
 software.
 
